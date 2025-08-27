@@ -1,4 +1,5 @@
-# Achievement 3 SQL project
+# Achievement 3 SQL Project
+
 ## Introduction
 
 ## 🏢 Company Overview

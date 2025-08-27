@@ -78,3 +78,5 @@ Your project will be assessed on your ability to:
 3. Communicate findings to technical colleagues using **Excel and documentation**.  
 4. Deliver a **professional portfolio project** to showcase your SQL expertise. 
 
+##### [Exercise 3.10 Rockbuster.pptx]
+https://github.com/samuellal7/3-SQL-Projects/blob/main/README.md#:~:text=Rockbuster,-%2DStrategy%2D2020%2D%2D%2DData

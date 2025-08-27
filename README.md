@@ -8,18 +8,18 @@ Rockbuster Stealth LLC is a global movie rental company that once operated physi
 As a Data Analyst within Rockbuster Stealth’s Business Intelligence (BI) Department, your primary role is to support the development and execution of the company’s digital transformation strategy. The BI department collaborates with teams across inventory management, customer insights, and marketing, providing actionable, data-driven recommendations.
 
 ### Key responsibilities include:
-##### Loading and organizing Rockbuster Stealth’s historical data into a Relational Database Management System (RDBMS).
-##### Using SQL to analyze data and answer ad-hoc business questions from various departments.
-##### Developing a strong understanding of Rockbuster’s data infrastructure and metrics to provide meaningful insights.
-##### Presenting findings and strategic recommendations to the Rockbuster Stealth Management Board in a clear, actionable format.
+- Loading and organizing Rockbuster Stealth’s historical data into a Relational Database Management System (RDBMS).
+- Using SQL to analyze data and answer ad-hoc business questions from various departments.
+- Developing a strong understanding of Rockbuster’s data infrastructure and metrics to provide meaningful insights.
+- Presenting findings and strategic recommendations to the Rockbuster Stealth Management Board in a clear, actionable format.
 
 ### ❓ Key Business Questions
-##### The Management Board has outlined a set of critical questions to shape their 2020 company strategy. These include:
-##### Which movies generated the highest revenue and rental frequency?
-##### Who are Rockbuster’s most valuable customers, and where are they located?
-##### What customer segments should Rockbuster target for its online service?
-##### How can Rockbuster optimize pricing and inventory for maximum profitability?
-##### Which regions and demographics should be prioritized for the streaming launch?
+- The Management Board has outlined a set of critical questions to shape their 2020 company strategy. These include:
+- Which movies generated the highest revenue and rental frequency?
+- Who are Rockbuster’s most valuable customers, and where are they located?
+- What customer segments should Rockbuster target for its online service?
+- How can Rockbuster optimize pricing and inventory for maximum profitability?
+- Which regions and demographics should be prioritized for the streaming launch?
 
 ## 📖 Project Context  
 
